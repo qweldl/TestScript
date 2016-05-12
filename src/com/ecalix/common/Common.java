@@ -17,17 +17,16 @@ public class Common {
 		this.driver = driver;
 	}
 	
-	public WebDriver openBrowser(){
+	public WebDriver openBrowser(String browser){
 		
-		/*if(sBrowerType.equals("Chrome")){
+		if(browser.equals("Chrome")){
 			System.setProperty("webdriver.chrome.driver", "/Users/yanbochen/Documents/workspaceQA/CatalogNew/drivers/chromedriver");
 			driver = new ChromeDriver();
-		} else if(sBrowerType.equals("safari")){
+		} else if(browser.equals("safari")){
 			driver=new SafariDriver();
-		} else if(sBrowerType.equals("firefox")){
+		} else if(browser.equals("firefox")){
 			driver = new FirefoxDriver();
-		}*/
-		driver = new FirefoxDriver();
+		}
 		driver.manage().window().maximize();
 		driver.manage().timeouts()
 		        .implicitlyWait(30, TimeUnit.SECONDS);
@@ -49,7 +48,7 @@ public class Common {
 
 	public void getTitle(){
 		String title = driver.getTitle();
-		System.out.println("The page title is "+ title);
+		System.out.println("The page title is: "+ title);
 	
 	}
 	
