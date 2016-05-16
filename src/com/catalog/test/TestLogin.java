@@ -30,9 +30,9 @@ public class TestLogin {
 	public void setUp(String browserType) throws IOException{		
 		logger = Logger.getLogger("Test");
 		cm = new Common(driver);
-		PropertyConfigurator.configure("C:\\Users\\Yanbo\\Projects\\project\\automationJava\\log4j.properties");
+		PropertyConfigurator.configure("/Users/yanbochen/Downloads/TestScript-master/log4j.properties");
 		Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("C:\\Users\\Yanbo\\Projects\\project\\automationJava\\config.properties");
+		FileInputStream fis = new FileInputStream("/Users/yanbochen/Downloads/TestScript-master/config.properties");
 		prop.load(fis);
 		driver = cm.openBrowser(browserType);
 		cm.openUrl();
@@ -48,9 +48,7 @@ public class TestLogin {
 	public void test1(){
 		homepage = new HomePage(driver);
 		loginpage = new LoginPage(driver);
-		loginpage.clickSignInButton();
-		//loginpage.username().sendKeys();
-		logger.info("see me");
+		homepage.clicklogyourself();
 	}
 
 }

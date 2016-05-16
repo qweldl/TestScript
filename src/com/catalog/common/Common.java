@@ -7,7 +7,6 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
@@ -51,7 +50,7 @@ public class Common {
 	
 	public void openUrl() throws IOException{
 		Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("C:\\Users\\Yanbo\\Projects\\project\\automationJava\\config.properties");
+		FileInputStream fis = new FileInputStream("/Users/yanbochen/Downloads/TestScript-master/config.properties");
 		prop.load(fis);
 		String url = prop.getProperty("url");
 		driver.get(url);

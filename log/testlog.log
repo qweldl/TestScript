@@ -58,3 +58,18 @@
 2016-05-16 11:27:22,289 - Common -INFO - closing browser
 2016-05-16 13:19:31,148 - Common -INFO - brower opened
 2016-05-16 13:19:31,610 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 14:46:35,340 - Common -INFO - brower opened
+2016-05-16 14:48:33,635 - Common -INFO - brower opened
+2016-05-16 14:48:34,609 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 14:50:17,256 - Common -INFO - brower opened
+2016-05-16 14:50:18,162 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 14:51:05,981 - Common -INFO - closing browser
+2016-05-16 14:51:50,224 - Common -INFO - closing browser
+2016-05-16 14:53:42,158 - Common -INFO - brower opened
+2016-05-16 14:53:43,070 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 14:53:43,207 - Common -INFO - log yourself in trying to click
+2016-05-16 14:53:43,573 - Common -INFO - log yourself in clicked 
+2016-05-16 14:53:45,763 - Common -INFO - Alert not found
+2016-05-16 14:53:45,764 - Test -INFO - see me
+2016-05-16 14:53:45,770 - Common -INFO - closing browser
+2016-05-16 14:53:45,878 - Common -INFO - browser closed

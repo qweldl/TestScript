@@ -36,7 +36,7 @@ public class LoginPage {
 	}
 	
 	public void clickSignInButton(){	   
-		SIGNIN.click();
+		cm.click(SIGNIN);
 		System.out.println("Sign In Clicked");
 	}
 }
