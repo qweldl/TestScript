@@ -1,0 +1,60 @@
+2016-05-15 23:12:00,788 - Test -INFO - this is logger
+2016-05-15 23:26:30,742 - Test -INFO - this is logger
+2016-05-15 23:26:30,745 - Test -INFO - "http://107.170.213.234/catalog"
+2016-05-16 00:36:11,595 - Test -INFO - this is logger
+2016-05-16 00:36:11,598 - Test -INFO - "http://107.170.213.234/catalog"
+2016-05-16 00:36:11,607 - Test -INFO - firefox
+2016-05-16 00:37:34,486 - Test -INFO - this is logger
+2016-05-16 00:37:34,489 - Test -INFO - "http://107.170.213.234/catalog"
+2016-05-16 00:37:34,500 - Test -INFO - firefox
+2016-05-16 00:38:10,890 - Test -INFO - this is logger
+2016-05-16 00:38:10,893 - Test -INFO - http://107.170.213.234/catalog
+2016-05-16 00:38:10,903 - Test -INFO - firefox
+2016-05-16 00:47:41,649 - Test -INFO - this is logger
+2016-05-16 00:47:44,978 - Test -INFO - firefox
+2016-05-16 02:13:19,990 - Test -INFO - this is logger
+2016-05-16 02:13:52,432 - Test -INFO - this is logger
+2016-05-16 02:16:22,253 - Test -INFO - this is logger
+2016-05-16 02:17:41,909 - Test -INFO - this is logger
+2016-05-16 02:17:41,922 - Test -INFO - firefox
+2016-05-16 02:17:41,926 - Test -INFO - firefox
+2016-05-16 03:21:03,381 - Test -INFO - this is logger
+2016-05-16 03:22:22,695 - Test -INFO - this is logger
+2016-05-16 03:23:52,710 - Test -INFO - this is logger
+2016-05-16 03:29:45,591 - Test -INFO - this is logger
+2016-05-16 03:30:23,410 - Test -INFO - this is logger
+2016-05-16 03:33:03,074 - Test -INFO - this is logger
+2016-05-16 03:33:05,673 - Common -INFO - brower opened
+2016-05-16 03:33:06,293 - Test -INFO - see me
+2016-05-16 03:33:44,728 - Test -INFO - this is logger
+2016-05-16 03:33:47,261 - Common -INFO - brower opened
+2016-05-16 03:33:47,853 - Common -INFO - url opened
+2016-05-16 03:33:47,857 - Test -INFO - see me
+2016-05-16 03:33:47,882 - Common -INFO - browser closed
+2016-05-16 03:35:35,189 - Test -INFO - this is logger
+2016-05-16 03:35:37,795 - Common -INFO - brower opened
+2016-05-16 03:35:38,274 - Common -INFO - url http://107.170.213.234/catalog opened
+2016-05-16 03:35:38,280 - Test -INFO - see me
+2016-05-16 03:35:38,301 - Common -INFO - browser closed
+2016-05-16 03:48:51,472 - Common -INFO - brower opened
+2016-05-16 03:48:52,042 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 03:48:52,063 - Common -INFO - browser closed
+2016-05-16 03:51:24,335 - Common -INFO - brower opened
+2016-05-16 03:51:24,862 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 03:51:24,884 - Common -INFO - browser closed
+2016-05-16 03:53:34,469 - Common -INFO - brower opened
+2016-05-16 03:53:34,993 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 03:53:55,426 - Common -INFO - element: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='bodyContent']/div/div[1]/a[1]/u' is clicked
+2016-05-16 03:53:55,427 - Test -INFO - see me
+2016-05-16 03:53:55,453 - Common -INFO - browser closed
+2016-05-16 04:08:18,294 - Common -INFO - brower opened
+2016-05-16 04:08:18,859 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 04:08:39,237 - Common -INFO - element: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='bodyContent']/div/div[1]/a[1]/u' is clicked
+2016-05-16 04:08:39,546 - Common -INFO - element: [[FirefoxDriver: firefox on WINDOWS (3e63a0ff-6e8c-4f3f-bc39-69348b81c70b)] -> id: tdb5] is clicked
+2016-05-16 04:08:39,546 - Test -INFO - see me
+2016-05-16 04:08:39,557 - Common -INFO - browser closed
+2016-05-16 11:26:51,722 - Common -INFO - brower opened
+2016-05-16 11:26:52,152 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 11:27:22,289 - Common -INFO - closing browser
+2016-05-16 13:19:31,148 - Common -INFO - brower opened
+2016-05-16 13:19:31,610 - Common -INFO - opened url: http://107.170.213.234/catalog
