@@ -73,3 +73,76 @@
 2016-05-16 14:53:45,764 [main] INFO Test - see me
 2016-05-16 14:53:45,770 [main] INFO Common - closing browser
 2016-05-16 14:53:45,878 [main] INFO Common - browser closed
+2016-05-16 15:11:21,535 [main] INFO Common - brower opened
+2016-05-16 15:11:22,459 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:11:22,636 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:11:23,028 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:11:25,222 [main] INFO Common - Alert not found
+2016-05-16 15:11:25,224 [main] INFO Common - closing browser
+2016-05-16 15:11:25,370 [main] INFO Common - browser closed
+2016-05-16 15:15:20,352 [main] INFO Common - brower opened
+2016-05-16 15:15:21,314 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:15:21,487 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:15:21,820 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:15:24,014 [main] INFO Common - Alert not found
+2016-05-16 15:15:24,016 [main] INFO Common - closing browser
+2016-05-16 15:15:24,178 [main] INFO Common - browser closed
+2016-05-16 15:18:03,128 [main] INFO Common - brower opened
+2016-05-16 15:18:04,010 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:18:04,237 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:18:04,621 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:18:06,809 [main] INFO Common - Alert not found
+2016-05-16 15:18:06,837 [main] INFO Common - trying to set the value
+2016-05-16 15:18:06,907 [main] INFO Common - null entered
+2016-05-16 15:18:06,931 [main] INFO Common - trying to set the value
+2016-05-16 15:18:07,000 [main] INFO Common - null entered
+2016-05-16 15:18:07,003 [main] INFO Common - closing browser
+2016-05-16 15:18:07,149 [main] INFO Common - browser closed
+2016-05-16 15:19:30,204 [main] INFO Common - brower opened
+2016-05-16 15:19:31,163 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:19:31,296 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:19:31,622 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:19:33,811 [main] INFO Common - Alert not found
+2016-05-16 15:19:33,836 [main] INFO Common - trying to set the value
+2016-05-16 15:19:33,943 [main] INFO Common - ecalix@test.com entered
+2016-05-16 15:19:33,966 [main] INFO Common - trying to set the value
+2016-05-16 15:19:34,056 [main] INFO Common - test123 entered
+2016-05-16 15:20:10,177 [main] INFO Common - brower opened
+2016-05-16 15:20:11,141 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:20:11,268 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:20:11,617 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:20:13,808 [main] INFO Common - Alert not found
+2016-05-16 15:20:13,833 [main] INFO Common - trying to set the value
+2016-05-16 15:20:13,931 [main] INFO Common - ecalix@test.com entered
+2016-05-16 15:20:13,950 [main] INFO Common - trying to set the value
+2016-05-16 15:20:14,037 [main] INFO Common - test123 entered
+2016-05-16 15:20:14,074 [main] INFO Common - null trying to click
+2016-05-16 15:20:14,449 [main] INFO Common - null clicked 
+2016-05-16 15:20:16,618 [main] INFO Common - Alert not found
+2016-05-16 15:22:33,706 [main] INFO Common - brower opened
+2016-05-16 15:22:34,717 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:22:34,863 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:22:35,247 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:22:37,451 [main] INFO Common - Alert not found
+2016-05-16 15:22:37,481 [main] INFO Common - trying to set the value
+2016-05-16 15:22:37,583 [main] INFO Common - ecalix@test.com entered
+2016-05-16 15:22:37,604 [main] INFO Common - trying to set the value
+2016-05-16 15:22:37,689 [main] INFO Common - test123 entered
+2016-05-16 15:22:37,728 [main] INFO Common - null trying to click
+2016-05-16 15:22:38,120 [main] INFO Common - null clicked 
+2016-05-16 15:22:40,286 [main] INFO Common - Alert not found
+2016-05-16 15:23:17,246 [main] INFO Common - brower opened
+2016-05-16 15:23:18,048 [main] INFO Common - opened url: http://107.170.213.234/catalog
+2016-05-16 15:23:18,183 [main] INFO Common - log yourself in trying to click
+2016-05-16 15:23:18,497 [main] INFO Common - log yourself in clicked 
+2016-05-16 15:23:20,698 [main] INFO Common - Alert not found
+2016-05-16 15:23:20,733 [main] INFO Common - trying to set the value
+2016-05-16 15:23:20,828 [main] INFO Common - ecalix@test.com entered
+2016-05-16 15:23:20,849 [main] INFO Common - trying to set the value
+2016-05-16 15:23:20,936 [main] INFO Common - test123 entered
+2016-05-16 15:23:20,977 [main] INFO Common - null trying to click
+2016-05-16 15:23:21,375 [main] INFO Common - null clicked 
+2016-05-16 15:23:23,552 [main] INFO Common - Alert not found
+2016-05-16 15:23:23,572 [main] INFO Common - Log Off trying to click
+2016-05-16 15:23:23,869 [main] INFO Common - Log Off clicked 
+2016-05-16 15:23:26,210 [main] INFO Common - Alert not found

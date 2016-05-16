@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReportNG1 Test"
+           tests="3"
+           failures="1"
+           errors="0"
+           skipped="2"
+           time="0.007">
+  <properties />
+            <testcase name="setUp" time="0.000" classname="com.catalog.test.TestLogin">
+                <failure type="org.testng.TestNGException"
+                  message="
+Parameter &apos;browserType&apos; is required by @Configuration on method setUp but has not been marked @Optional or defined
+in /Users/yanbochen/Downloads/TestScript-master/testng.xml"
+              >
+<![CDATA[org.testng.TestNGException: 
+Parameter 'browserType' is required by @Configuration on method setUp but has not been marked @Optional or defined
+in /Users/yanbochen/Downloads/TestScript-master/testng.xml
+  org.testng.internal.Parameters.createParameters(Parameters.java:154)
+  org.testng.internal.Parameters.createParameters(Parameters.java:361)
+  org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:84)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:197)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+  org.testng.TestRunner.privateRun(TestRunner.java:774)
+  org.testng.TestRunner.run(TestRunner.java:624)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+  org.testng.SuiteRunner.run(SuiteRunner.java:261)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+  org.testng.TestNG.run(TestNG.java:1048)
+  org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:112)
+  org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:205)
+  org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:176)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="tearDown" time="0.0" classname="com.catalog.test.TestLogin">
+          <skipped />
+    </testcase>
+            <testcase name="test1" time="0.0" classname="com.catalog.test.TestLogin">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

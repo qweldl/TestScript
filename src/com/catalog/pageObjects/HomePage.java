@@ -24,7 +24,14 @@ public class HomePage {
 	@FindBy(xpath=".//*[@id='bodyContent']/div/div[1]/a[1]/u")
 	WebElement logyourself;
 	
+	@FindBy(xpath=".//*[@id='tdb4']/span")
+	WebElement logoff;
+	
 	public void clicklogyourself(){
 		cm.click(logyourself);
+	}
+	
+	public void logoff(){
+		cm.click(logoff);
 	}
 }

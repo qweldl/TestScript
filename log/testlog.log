@@ -73,3 +73,76 @@
 2016-05-16 14:53:45,764 - Test -INFO - see me
 2016-05-16 14:53:45,770 - Common -INFO - closing browser
 2016-05-16 14:53:45,878 - Common -INFO - browser closed
+2016-05-16 15:11:21,535 - Common -INFO - brower opened
+2016-05-16 15:11:22,459 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:11:22,636 - Common -INFO - log yourself in trying to click
+2016-05-16 15:11:23,028 - Common -INFO - log yourself in clicked 
+2016-05-16 15:11:25,222 - Common -INFO - Alert not found
+2016-05-16 15:11:25,224 - Common -INFO - closing browser
+2016-05-16 15:11:25,370 - Common -INFO - browser closed
+2016-05-16 15:15:20,352 - Common -INFO - brower opened
+2016-05-16 15:15:21,314 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:15:21,487 - Common -INFO - log yourself in trying to click
+2016-05-16 15:15:21,820 - Common -INFO - log yourself in clicked 
+2016-05-16 15:15:24,014 - Common -INFO - Alert not found
+2016-05-16 15:15:24,016 - Common -INFO - closing browser
+2016-05-16 15:15:24,178 - Common -INFO - browser closed
+2016-05-16 15:18:03,128 - Common -INFO - brower opened
+2016-05-16 15:18:04,010 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:18:04,237 - Common -INFO - log yourself in trying to click
+2016-05-16 15:18:04,621 - Common -INFO - log yourself in clicked 
+2016-05-16 15:18:06,809 - Common -INFO - Alert not found
+2016-05-16 15:18:06,837 - Common -INFO - trying to set the value
+2016-05-16 15:18:06,907 - Common -INFO - null entered
+2016-05-16 15:18:06,931 - Common -INFO - trying to set the value
+2016-05-16 15:18:07,000 - Common -INFO - null entered
+2016-05-16 15:18:07,003 - Common -INFO - closing browser
+2016-05-16 15:18:07,149 - Common -INFO - browser closed
+2016-05-16 15:19:30,204 - Common -INFO - brower opened
+2016-05-16 15:19:31,163 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:19:31,296 - Common -INFO - log yourself in trying to click
+2016-05-16 15:19:31,622 - Common -INFO - log yourself in clicked 
+2016-05-16 15:19:33,811 - Common -INFO - Alert not found
+2016-05-16 15:19:33,836 - Common -INFO - trying to set the value
+2016-05-16 15:19:33,943 - Common -INFO - ecalix@test.com entered
+2016-05-16 15:19:33,966 - Common -INFO - trying to set the value
+2016-05-16 15:19:34,056 - Common -INFO - test123 entered
+2016-05-16 15:20:10,177 - Common -INFO - brower opened
+2016-05-16 15:20:11,141 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:20:11,268 - Common -INFO - log yourself in trying to click
+2016-05-16 15:20:11,617 - Common -INFO - log yourself in clicked 
+2016-05-16 15:20:13,808 - Common -INFO - Alert not found
+2016-05-16 15:20:13,833 - Common -INFO - trying to set the value
+2016-05-16 15:20:13,931 - Common -INFO - ecalix@test.com entered
+2016-05-16 15:20:13,950 - Common -INFO - trying to set the value
+2016-05-16 15:20:14,037 - Common -INFO - test123 entered
+2016-05-16 15:20:14,074 - Common -INFO - null trying to click
+2016-05-16 15:20:14,449 - Common -INFO - null clicked 
+2016-05-16 15:20:16,618 - Common -INFO - Alert not found
+2016-05-16 15:22:33,706 - Common -INFO - brower opened
+2016-05-16 15:22:34,717 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:22:34,863 - Common -INFO - log yourself in trying to click
+2016-05-16 15:22:35,247 - Common -INFO - log yourself in clicked 
+2016-05-16 15:22:37,451 - Common -INFO - Alert not found
+2016-05-16 15:22:37,481 - Common -INFO - trying to set the value
+2016-05-16 15:22:37,583 - Common -INFO - ecalix@test.com entered
+2016-05-16 15:22:37,604 - Common -INFO - trying to set the value
+2016-05-16 15:22:37,689 - Common -INFO - test123 entered
+2016-05-16 15:22:37,728 - Common -INFO - null trying to click
+2016-05-16 15:22:38,120 - Common -INFO - null clicked 
+2016-05-16 15:22:40,286 - Common -INFO - Alert not found
+2016-05-16 15:23:17,246 - Common -INFO - brower opened
+2016-05-16 15:23:18,048 - Common -INFO - opened url: http://107.170.213.234/catalog
+2016-05-16 15:23:18,183 - Common -INFO - log yourself in trying to click
+2016-05-16 15:23:18,497 - Common -INFO - log yourself in clicked 
+2016-05-16 15:23:20,698 - Common -INFO - Alert not found
+2016-05-16 15:23:20,733 - Common -INFO - trying to set the value
+2016-05-16 15:23:20,828 - Common -INFO - ecalix@test.com entered
+2016-05-16 15:23:20,849 - Common -INFO - trying to set the value
+2016-05-16 15:23:20,936 - Common -INFO - test123 entered
+2016-05-16 15:23:20,977 - Common -INFO - null trying to click
+2016-05-16 15:23:21,375 - Common -INFO - null clicked 
+2016-05-16 15:23:23,552 - Common -INFO - Alert not found
+2016-05-16 15:23:23,572 - Common -INFO - Log Off trying to click
+2016-05-16 15:23:23,869 - Common -INFO - Log Off clicked 
+2016-05-16 15:23:26,210 - Common -INFO - Alert not found
